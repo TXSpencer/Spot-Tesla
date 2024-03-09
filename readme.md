@@ -1,0 +1,1 @@
+Spot wether there is a Tesla in a picture
